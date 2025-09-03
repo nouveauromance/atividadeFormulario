@@ -1,0 +1,65 @@
+body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background: #f5f7fa;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+}
+
+form {
+      background: #ffffff;
+      padding: 30px 40px;
+      border-radius: 10px;
+      box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+      max-width: 400px;
+      width: 100%;
+}
+
+label {
+      display: block;
+      margin-bottom: 8px;
+      font-weight: 600;
+      color: #333;
+}
+
+input[type="text"], input[type="tel"] {
+      width: 100%;
+      padding: 10px 12px;
+      margin-bottom: 20px;
+      border: 1px solid #ccc;
+      border-radius: 6px;
+      box-sizing: border-box;
+      font-size: 14px;
+}
+
+input[type="submit"] {
+      background-color: #4CAF50;
+      color: white;
+      padding: 12px;
+      width: 100%;
+      border: none;
+      border-radius: 6px;
+      font-size: 16px;
+      cursor: pointer;
+      transition: background-color 0.3s ease;
+}
+
+input[type="submit"]:hover {
+      background-color: #45a049;
+}
+
+a {
+      display: block;
+      text-align: center;
+      margin-top: 20px;
+      text-decoration: none;
+      color: #4CAF50;
+      font-weight: 500;
+      transition: color 0.3s ease;
+}
+
+a:hover {
+      color: #388e3c;
+}
