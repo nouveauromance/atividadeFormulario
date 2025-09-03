@@ -24,3 +24,8 @@ Fale Conosco (contato.html)
 ## Autora
 
 - [@Natali](https://github.com/nouveauromance)
+
+🔗 Aula por Leandro Reginaldo
+
+📍 Fatec Diadema Luigi Papaiz 
+
